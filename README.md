@@ -4,6 +4,8 @@
 
 Build a React Native picture logging app that uses the phone's camera to take pictures at regular intervals and upload them to an API endpoint.
 
+Use Github projects to manage your workflows
+
 ## Acceptance criteria
 - The app should have a camera preview to view the picture being captured
 - A user should be able to specify whether to use the front or back camera
