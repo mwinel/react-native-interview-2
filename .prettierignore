@@ -1,5 +1,7 @@
 node_modules
+.expo
 .expo-shared
 .expo-cli
 .expo-cli-cache
 .vscode
+coverage
